@@ -29,7 +29,7 @@ define('DB_USER', 'root');
 define('DB_PASSWORD', 'como#9!');
 
 /** MySQL hostname */
-define('DB_HOST', ':/cloudsql/commo-181207:us-central1:commodb');
+define('DB_HOST', 'commo-181207:us-central1:commodb');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
