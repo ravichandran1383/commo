@@ -15,6 +15,7 @@ try{
 		$stmt = $dbh->prepare($sql);  
 		$stmt->execute();	
 		$data = $stmt->fetch(PDO::FETCH_ASSOC);	
+		print_R($data);
 		$data['option_name'] = $data['option_name'];
 		$dbh = null;
 		echo '{"items":'. json_encode($data).'}'; 
