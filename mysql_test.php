@@ -6,9 +6,9 @@ echo 'connected';
 die(mysql_error());
 */
 try{
-		$dsn = getenv('MYSQL_DSN');
-		$user = getenv('MYSQL_USER');
-		$password = getenv('MYSQL_PASSWORD');
+		echo $dsn = getenv('MYSQL_DSN');
+		echo  $user = getenv('MYSQL_USER');
+		echo  $password = getenv('MYSQL_PASSWORD');
 		$dbh = new PDO($dsn, $user, $password) or die('unable to connect to db');;	
 		$dbh->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 		$sql = 'select * from wpsc_options';
