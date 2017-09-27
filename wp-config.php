@@ -23,7 +23,7 @@
 define('DB_NAME', 'commodb');
 
 /** MySQL database username */
-define('DB_USER', 'commouser');
+define('DB_USER', 'root');
 
 /** MySQL database password */
 define('DB_PASSWORD', 'como#9!');
