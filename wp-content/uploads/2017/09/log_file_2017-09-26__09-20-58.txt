@@ -1,0 +1,157 @@
+
+---Downloaded files---
+The import files for: Electro were successfully downloaded!
+Initial max execution time = 240
+Files info:
+Site URL = http://localhost/wordpress
+Data file = C:\xampp\htdocs\wordpress/wp-content/themes/electro/assets/dummy-data/dummy-data.xml
+Widget file = C:\xampp\htdocs\wordpress/wp-content/themes/electro/assets/dummy-data/widgets.wie
+Customizer file = not defined!
+Redux files:
+electro_options -> C:\xampp\htdocs\wordpress/wp-content/themes/electro/assets/dummy-data/redux-options.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Home Sidebar : 
+
+Text - No Title - Imported
+WooCommerce products - Latest Products - Imported
+Electro Features Block - No Title - Imported
+Electro Products Carousel - Featured Products - Imported
+Electro Posts Carousel - From the Blog - Imported
+
+Shop Sidebar : 
+
+Electro Product Categories - No Title - Imported
+Electro Product Filter - Filters - Imported
+Text - No Title - Imported
+WooCommerce products - Latest Products - Imported
+
+Product Filters : 
+
+WooCommerce layered nav filters - Active Filters - Imported
+WooCommerce layered nav - Brands - Imported
+WooCommerce layered nav - Color - Imported
+WooCommerce price filter - Price - Imported
+
+Blog Sidebar : 
+
+Search - No Title - Imported
+Text - About Blog - Imported
+Categories - Categories - Imported
+Electro Recent Posts - Recent Posts - Imported
+Tag Cloud - Tags Clouds - Imported
+
+Footer Bottom Widgets : 
+
+Custom Menu - Find It Fast - Imported
+Custom Menu -   - Imported
+Custom Menu - Customer Care - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: electro_options finished successfully!
+
+---pt-ocdi/after_import---
+
