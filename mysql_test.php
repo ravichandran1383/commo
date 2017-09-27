@@ -1,11 +1,6 @@
 <?php
-echo $dsn = getenv('MYSQL_DNS');
-echo  $user = getenv('MYSQL_USER');
-echo $password = getenv('MYSQL_PASSWORD');
-$con = mysql_connect($dsn,$user,$password);
+$con = mysqli_connect(null,'root','como#9!','commodb','','/cloudsql/commo-181207:us-central1:commodb');
 if($con) 
 echo 'connected';
 die(mysql_error());
-phpinfo();
 ?>
-
